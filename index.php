@@ -6,7 +6,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
     
-        // لربط الملفين 
+    
         <link rel="stylesheet" href="Untitled-3.css">
         
         <meta charset="utf-8">
